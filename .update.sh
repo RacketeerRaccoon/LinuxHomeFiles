@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This is Mikey's update shell script for Debian Distributions for Linux
+# Once downloaded, change user permissions to include execution
 # Command line prompt is sudo ./.update.sh 
 # Enter password when prompted
 
