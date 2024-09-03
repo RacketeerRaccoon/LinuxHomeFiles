@@ -1,4 +1,4 @@
-// This is Mikey's GDBInit files for x86
+# This is Mikey's GDBInit files for x86
 
 
 set disassembly-flavor intel
@@ -21,5 +21,5 @@ define 1col_hi
     end
 end
 
-// put home dir here
+# put home dir here
 source /home/ubuntu/.gdbinit-gef.py
